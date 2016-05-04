@@ -1,6 +1,6 @@
 # google-homepage
 
-<!DOCTYPE html)
+<!DOCTYPE html>
 <html>
 <head>
 <style>
